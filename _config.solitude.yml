@@ -47,7 +47,7 @@ nav:
       友情链接: /links/ || fas fa-user-group
       宝藏博主: javascript:travelling() || fas fa-gift
     关于:
-      最近评论: /recentcomments/ || fas fa-comment
+      # 最近评论: /recentcomments/ || fas fa-comment
       关于我: /about/ || fas fa-user
       相册: /gallery/ || fas fa-images
     #   我的装备: /equipment/ || fas fa-laptop
