@@ -1,0 +1,14 @@
+banner_suffix: _suffix
+links:
+  - class_name: 推荐
+    descr: 优质技术博客
+    type: item
+    suffix:
+    link_list:
+      - name: "Everfu's Blog"
+        url: "https://everfu.cn"
+        avatar: "https://everfu.cn/avatar.png"
+        desc: "前端技术博客"
+        color: "#66CCFF"
+      - name: "示例友链"  # 将被过滤
+        url: "https://example.com"
